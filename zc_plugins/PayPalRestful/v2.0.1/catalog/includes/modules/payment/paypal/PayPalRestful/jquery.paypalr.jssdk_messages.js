@@ -1,5 +1,5 @@
 // PayPal PayLater messaging
-// Last updated: v1.3.1
+// Last updated: v2.0.1/1.3.2
 if (!paypalMessagesPageType.length) {
     paypalMessagesPageType = "None";
 }
